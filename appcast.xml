@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Duo_blocker_scroller_macOS</title>
+        <item>
+            <title>0.09</title>
+            <pubDate>Fri, 07 Feb 2025 16:11:44 -0500</pubDate>
+            <sparkle:version>0.09</sparkle:version>
+            <sparkle:shortVersionString>0.09</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/aspirelabs-inc/duo_mac_updates/releases/download/prod/Duo_2.dmg" length="62451922" type="application/octet-stream" sparkle:edSignature="C/rba0kqO1po9Bt9XEVEgPTIXfM36UzXSfR6FNwnbO3FWDg/H65cOVZoc8bdDt6/H+Cldd+ukj+m+eCBbWimAw=="/>
+        </item>
+    </channel>
+</rss>
