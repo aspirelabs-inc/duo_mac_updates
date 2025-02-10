@@ -5,10 +5,13 @@
         <item>
             <title>0.10</title>
             <pubDate>Sun, 09 Feb 2025 23:58:25 -0500</pubDate>
-            <sparkle:version>0.1</sparkle:version>
+            <sparkle:version>10</sparkle:version>  <!-- FIXED -->
             <sparkle:shortVersionString>0.10</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/aspirelabs-inc/duo_mac_updates/releases/download/prod/Duo.dmg" length="63882544" type="application/octet-stream" sparkle:edSignature="CIpdGADY78TXdBAobaZbBew3Ygkq2wfKn1Ky/llVd1Y+ITYtk/JEl8IvxB2hsgjbjBS6Am0ZgTAo0CmbAVZKBA=="/>
+            <enclosure url="https://github.com/aspirelabs-inc/duo_mac_updates/releases/download/prod/Duo.dmg"
+                length="63882544"
+                type="application/octet-stream"
+                sparkle:edSignature="CIpdGADY78TXdBAobaZbBew3Ygkq2wfKn1Ky/llVd1Y+ITYtk/JEl8IvxB2hsgjbjBS6Am0ZgTAo0CmbAVZKBA=="/>
         </item>
     </channel>
 </rss>
