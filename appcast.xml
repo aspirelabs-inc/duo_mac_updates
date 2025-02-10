@@ -3,12 +3,12 @@
     <channel>
         <title>Duo</title>
         <item>
-            <title>0.10</title>
-            <pubDate>Mon, 10 Feb 2025 00:23:31 -0500</pubDate>
-            <sparkle:version>0.1</sparkle:version>
-            <sparkle:shortVersionString>0.10</sparkle:shortVersionString>
+            <title>1.0</title>
+            <pubDate>Mon, 10 Feb 2025 00:56:18 -0500</pubDate>
+            <sparkle:version>1.0</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/aspirelabs-inc/duo_mac_updates/releases/download/prod/Disk.Image.dmg" length="63882256" type="application/octet-stream" sparkle:edSignature="QgsD+e9orF9IDgnf/D9nQW0LCMAWz4bSDRkeW/V4YU97+NlmSZq8Kwl24D819aXtV5MJOJ6rrzkXYmZ65QcFBA=="/>
+            <enclosure url="https://github.com/aspirelabs-inc/duo_mac_updates/releases/download/prod/Duo.dmg" length="63896166" type="application/octet-stream" sparkle:edSignature="b39YhhtP1sEmhw/cM3+doUww8LnXHb4VegB8xY0KEPM1IGAqkiDsFsEjq40jVAklQOENNYuEQa7qk6wQmxvUDQ=="/>
         </item>
     </channel>
 </rss>
